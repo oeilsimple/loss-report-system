@@ -63,7 +63,7 @@ loss_run_project/
 
 #### Clone the Repository:
 ```sh
-git clone https://github.com/akanuragkumar/ClaimFlowAI.git
+git clone https://github.com/oeilsimple/loss-report-system.git
 cd ClaimFlowAI
 ```
 
